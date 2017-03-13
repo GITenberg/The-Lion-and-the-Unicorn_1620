@@ -1,5 +1,8 @@
 _repo: The-Lion-and-the-Unicorn_1620
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -12,6 +15,8 @@ description: 'This 1899 collection of short stories includes the title story as 
   as four others: On the Fever Ship, The Man with One Talent, The Vagrant, and The
   Last Ride Together. These exciting tales of adventure are chilling, whether set
   on a Cuban battlefield or in the smoke-filled back rooms of Washington, D.C.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1620#The-Lion-and-the-Unicorn
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
